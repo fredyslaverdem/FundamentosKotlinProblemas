@@ -1,7 +1,7 @@
 package com.example.proyectokotlinfundamentos
 
-// Nombre:
-// Fecha:
+// Nombre: Fredy Santiago laverde Mora
+// Fecha: 08/08/2024
 // Descripción: Solución del Problema 1 de la guía de Kotlin fundamentos
 
 // Función principal

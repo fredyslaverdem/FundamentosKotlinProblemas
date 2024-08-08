@@ -12,5 +12,13 @@ fun main() {
 // Función que debe desarrollar la lógica para la solución del problema
 fun problema10() {
     // Desarrolle aquí la lógica
+    println("Dame num:")
+    val num = readln().toInt()
+    val oper = (num%10)
 
+    if (oper == 0) {
+        println("Divisible.")
+    } else {
+        println("No divisible.")
+    }
 }
