@@ -1,6 +1,6 @@
 package com.example.proyectokotlinfundamentos
 
-import kotlin.math.pow
+import kotlin.math.pow // Se impporta ya que el operador ** no funciona (Puede ser problemas de instalación)
 
 // Nombre: Fredy Santiago Laverde Mora
 // Fecha: 08/08/2024

@@ -1,7 +1,5 @@
 package com.example.proyectokotlinfundamentos
 
-import java.math.BigDecimal
-
 // Nombre: Fredy Santiago Laverde Mora
 // Fecha: 08/08/2024
 // Descripción: Solución del Problema 4 de la guía de Kotlin fundamentos

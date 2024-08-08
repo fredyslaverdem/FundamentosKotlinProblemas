@@ -1,6 +1,5 @@
 package com.example.proyectokotlinfundamentos
 
-import kotlinx.coroutines.processNextEventInCurrentThread
 
 // Nombre: Fredy Santiago Laverde Mora
 // Fecha: 08/08/2024
