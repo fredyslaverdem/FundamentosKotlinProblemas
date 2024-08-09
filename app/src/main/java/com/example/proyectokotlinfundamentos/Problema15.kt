@@ -14,15 +14,12 @@ fun problema15() {
     // Desarrolle aquí la lógica
     println("Dame un numero de 4 cifras:")
     val num = readln().toInt()
-    var numeroOriginal = num
-    var numeroInvertido = 0
+    val digito1 = num / 1000
+    val digito2 = (num % 1000) / 100
+    val digito3 = (num % 100) / 10
+    val digito4 = num % 10
 
-    while (numeroOriginal > 0) {
-        numeroInvertido = numeroInvertido * 10 + numeroOriginal % 10
-        numeroOriginal /= 10
-    }
-
-    if (num == numeroInvertido) {
+    if (digito1 == digito4 && digito2 == digito3) {
         println("SÍ")
     } else {
         println("NO")
